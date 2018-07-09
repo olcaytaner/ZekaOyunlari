@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Zeka Oyunları</string>
+    <string name="games">Oyunlar</string>
+    <string name="choose">Oyun Seçiniz</string>
+    <string name="new_game">Yeni Oyun</string>
+    <string name="solve">Çözüm</string>
+    <string name="check_solution">Cevabı Kontrol Et</string>
+    <string name="undo">Geri Al</string>
+    <string name="dart">Hedef Tahtası</string>
+    <string name="dart_help">Hedef tahtasına atışlar yapılacaktır. Her alana ait puan tahtada gösterilmiştir. Tam 100 puanlık bir toplam nasıl elde edecek şekilde okları atın.</string>
+    <string name="guess_number">Artı Eksi(Sayı)</string>
+    <string name="guess_number_help">Her rakamı birbirinden farklı olan bir sayıyı bulmak için aşağıdaki tahminler yapılmıştır. Tahminlerin yanında yer alan her \'+\' işareti, doğru tahmin edilen ve doğru yerde bulunan bir rakam olduğunu, her \'-\' işareti ise doğru tahmin edilen ancak yanlış yerde bulunan bir rakam olduğunu göstermektedir.</string>
+    <string name="bottles">Kaplar</string>
+    <string name="bottles_help">Hacimleri aşağıda belirtilen üç adet kabınız var. Birinci kap tamamen dolu, diğer ikisi ise boş. Sadece bu kapları kullanarak köşedeki hedefte belirlenen su miktarını nasıl elde edersiniz?</string>
+    <string name="letters">Harfler</string>
+    <string name="letters_help">Harfleri karelere öyle yerleştirin ki her sırada ve her sütunda bu harflerin her biri tam olarak birer kez kullanılmış olsun. Tablonun dışındaki harfler bulunduğu noktadan bakılınca görülen ilk harftir.</string>
+    <string name="groups_of_4">Gruplar</string>
+    <string name="groups_of_4_help">Verilmiş olan 16 sayıdan 4\'ünü seçerek öyle bir grup oluşturun ki, gruptaki sayıların birler, onlar, yüzler ve binler basamakları ele alındığında her basamakta ya aynı ya da farklı bir rakam olsun.</string>
+    <string name="lighthouse">Fenerler</string>
+    <string name="lighthouse_help">Tabloya fenerleri gemilere ve birbirlerine komşu olmayacak biçimde yerleştiriniz. Gemilerin bulunduğu karelerdeki sayılar, gemilerin yatay, dikey ve çapraz olarak gördükleri fener sayısıdır.</string>
+    <string name="couples">Eşler</string>
+    <string name="couples_help">Tabloda görülen her erkeğin yanında eşi olan kadın bulunmaktadır. Kadınlar birbirlerine çapraz da olsa komşu değildir. Tablodaki sayılar o satır veya sütunda bulunan kadın sayısıdır.</string>
+    <string name="bring_equality">Kutu Sil</string>
+    <string name="bring_equality_help">Her satırdan iki kutu silerek eşitlikleri doğru hale getirin.</string>
+    <string name="treasure_hunt">Hazine Avı</string>
+    <string name="treasure_hunt_help">Verilen sayıda elması her elmas bir hücreye gelecek şekilde diyagrama yerleştirin. Diyagramdaki rakamlar, komşu hücrelerde kaç elmas olduğunu göstermektedir. </string>
+    <string name="hexagon">Altıgen</string>
+    <string name="hexagon_help">Altı adet altıgeni boş yerlere öyle yerleştirin ki, bütün altıgenlerin komşu kenarlarında aynı sayılar bulunsun. Altıgenleri yerleştirirken dilediğiniz biçimde döndürebilir ancak ters çeviremezsiniz.</string>
+    <string name="digit_puzzle">Sayı Bilmece</string>
+    <string name="digit_puzzle_help">1\'den 9\'a kadar olan sayıları birer kez kullanarak boş karelere öyle yerleştirin ki, yatay ve düşey tüm eşitlikler gerçekleşsin. İşlemlerdeki öncelik sıralamasını unutmayın.</string>
+    <string name="chess_pieces">Satranç Taşları</string>
+    <string name="chess_pieces_help">Tablonun altındaki sekiz satranç taşını işaretlenmiş olan sekiz kareye yerleştiriniz. Sayılar, bulundukları karelerin kaç taş tarafından tehdit edildiğini göstermektedir.</string>
+    <string name="pyramid">Sihirli Piramit</string>
+    <string name="pyramid_help">Piramidin tepesinden birbirlerine bağlı çemberler boyunca ilerleyerek tabana ulaşın. Yol boyunca her sayı bir kez kullanılmalıdır.</string>
+    <string name="can_you_multiply">Çarpmaca</string>
+    <string name="can_you_multiply_help">Verilen sayıların tümünü her satır ve sütunde tam olarak iki sayı yer alacak şekilde diyagrama yerleştirin. Diyagramın dışındaki sayılar, o satır veya sütunda görülen iki sayının çarpımıdır.</string>
+    <string name="arrows">Oklar</string>
+    <string name="arrows_help">Tablonun kenarındaki boş karelere uygun okları her biri en az bir sayıyı işaret edecek şekilde yerleştiriniz. Karelerdeki sayılar, o kareyi kaç adet okun işaret ettiğini göstermektedir.</string>
+    <string name="tent">Çadır</string>
+    <string name="tent_help">Diyagramdaki her ağaca kenardan bağlı birer çadır bulunmaktadır. Çadırlar birbirine çaprazdan da olsa değemezler, ancak başka çadırların ağaçlarına değebilirler. Diyagramın dışındaki sayılar, o satır veya sütundaki toplam çadır sayısını göstermektedir.</string>
+    <string name="flowers">Çiçekler</string>
+    <string name="flowers_help">Karelerdeki sayılar, kendisi ve komşularında bulunan çiçeklerin sayısını vermektedir. Tablonun solundaki ve üstündeki sayılar, ilgili satır ve sütundaki çiçeklerin sayısını göstermektedir.</string>
+    <string name="pills">Kapsül</string>
+    <string name="pills_help">Verilen rakamların tümünü diyagramdaki kapsüllere yerleştirin. Diyagramın dışındaki sayılar o satır veya sütunda görülen kapsüllerin rakamları toplamını vermektedir.</string>
+    <string name="win">Kazandınız!</string>
+    <string name="lose">Kaybettiniz!</string>
+    <string-array name="games_array">
+        <item>@string/dart</item>
+        <item>@string/guess_number</item>
+        <item>@string/bottles</item>
+        <item>@string/letters</item>
+        <item>@string/groups_of_4</item>
+        <item>@string/lighthouse</item>
+        <item>@string/couples</item>
+        <item>@string/bring_equality</item>
+        <item>@string/treasure_hunt</item>
+        <item>@string/hexagon</item>
+        <item>@string/digit_puzzle</item>
+        <item>@string/chess_pieces</item>
+        <item>@string/pyramid</item>
+        <item>@string/can_you_multiply</item>
+        <item>@string/arrows</item>
+        <item>@string/tent</item>
+        <item>@string/flowers</item>
+        <item>@string/pills</item>
+    </string-array>
+</resources>

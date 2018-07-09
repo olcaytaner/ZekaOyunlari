@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:gravity="center_horizontal"
+        >
+    <TextView android:id="@+id/help"
+              android:text="@string/couples_help"
+              android:layout_width="fill_parent"
+              android:textSize="12px"
+              android:layout_height="60px"
+            />
+    <com.zekaoyunlari.EslerView
+            android:id="@+id/parti"
+            android:layout_width="300px"
+            android:layout_height="300px"
+            />
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="horizontal"
+                  android:layout_width="fill_parent"
+                  android:layout_height="40px"
+                  android:gravity="center_horizontal"
+                  android:layout_margin="5px"
+            >
+        <Button
+                android:id="@+id/check_solution"
+                android:text="@string/check_solution"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        <Button
+                android:id="@+id/solve_game"
+                android:text="@string/solve"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+        <Button
+                android:id="@+id/new_game"
+                android:text="@string/new_game"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+    </LinearLayout>
+    <TextView android:id="@+id/info"
+              android:text="00:00"
+              android:textSize="12px"
+              android:layout_width="fill_parent"
+              android:layout_height="20px"
+            />
+</LinearLayout>
